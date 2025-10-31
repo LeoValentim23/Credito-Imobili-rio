@@ -111,7 +111,7 @@ Then o sistema deve redirecionar para a tela "Dados do Financiamento"
   <img src="5/2.png" alt="Tela Inicial 5.2" width="250">
   <img src="5/3.png" alt="Tela Inicial 5.3" width="250">
   <img src="5/4.png" alt="Tela Inicial 5.4" width="250">
-  <img src="5/5.png" alt="Tela Inicial 5.5" width="250">
+  <img src="5/5.jpg" alt="Tela Inicial 5.5" width="250">
   <img src="5/6.png" alt="Tela Inicial 5.6" width="250">
 </p>
 
