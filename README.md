@@ -65,7 +65,7 @@ Then o sistema deve exibir a  descrição  "Preencha os campos para iniciar a si
   <img src="3/2.png" alt="Tela Inicial 3.2" width="250">
   <img src="3/3.png" alt="Tela Inicial 3.3" width="250">
   <img src="3/4.png" alt="Tela Inicial 3.4" width="250">
-  <img src="3/5.png" alt="Tela Inicial 3.5" width="250">
+  <img src="3/5.jpg" alt="Tela Inicial 3.5" width="250">
 </p>
 
 ### 4️⃣ Scenario: Usuário realiza simulação com dados do imovel validos (Comercial)
@@ -438,7 +438,7 @@ Then o sistema deve apresentar a simulação
 
 ### 🚀 As Is ###
 <p align="center">
-  <img src="AsIs/AsIs.png" alt="AsIs" width="250">
+  <img src="AsIs/AsIs.jpg" alt="AsIs" width="1500">
 </p>
 
 
